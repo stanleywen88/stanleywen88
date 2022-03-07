@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Python and Java. 
+🌱 I’m currently learning to code...
 
 📫 How to reach me: stanleywen@berkeley.edu
 
