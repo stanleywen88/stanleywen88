@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning Python and Java.
+📫 How to reach me: stanleywen@berkeley.edu
 <!--
 **stanleywen88/stanleywen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
