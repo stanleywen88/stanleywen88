@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently rebooting my memory... 
+
 💬 Ask me about Python and Java, or cat
+
 📫 How to reach me: stanleywen@berkeley.edu
 
 ![CatComputerGIF](https://user-images.githubusercontent.com/25849344/157385903-48a81f2f-5766-4507-b204-8366d4ae4188.gif)
