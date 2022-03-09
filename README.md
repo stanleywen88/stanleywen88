@@ -3,7 +3,7 @@
 💬 Ask me about Python and Java, or cat
 📫 How to reach me: stanleywen@berkeley.edu
 
-![KittenCatGIF](https://user-images.githubusercontent.com/25849344/157385641-08a2d49c-2484-47d0-911e-0e4af9a9e3e6.gif)
+![CatComputerGIF](https://user-images.githubusercontent.com/25849344/157385903-48a81f2f-5766-4507-b204-8366d4ae4188.gif)
 
 <!--
 **stanleywen88/stanleywen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
