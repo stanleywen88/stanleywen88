@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently rebooting my memory... 
+🌱 I'm currenlty learning Web Development and IOS App Development.
 
 💬 Ask me about Python and Java, or cat
 
