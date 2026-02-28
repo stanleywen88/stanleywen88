@@ -1,9 +1,6 @@
 ### Hi there 👋
-🌱 I'm currenlty learning Web Development and IOS App Development.
 
-💬 Ask me about Python and Java, or cat
-
-📫 How to reach me: stanleywen@berkeley.edu
+📫 How to reach me: stanleywen.dev@gmail.com
 
 ![CatComputerGIF](https://user-images.githubusercontent.com/25849344/157385903-48a81f2f-5766-4507-b204-8366d4ae4188.gif)
 
